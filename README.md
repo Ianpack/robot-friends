@@ -17,17 +17,18 @@ npm (comes with Node.js)
 
 ### Installation
 Clone the repository:
- '''
+
 git clone https://github.com/Ianpack/robot-friends.git
+
 cd robot-friends
+
 npm install
-'''
+
 
 ### Start the development server:
-'''
+
 npm start
 
-'''
 
 Open your browser and visit http://localhost:3000 to see the app in action.
 
